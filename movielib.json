@@ -1,0 +1,8 @@
+[
+    { 'name': 'Action' },
+    { 'name': 'Romance' },
+    { 'name': 'Commedy' },
+    { 'name': 'Horror' },
+    { 'name': 'Thriller' },
+    { 'name': 'Suspense' }
+]

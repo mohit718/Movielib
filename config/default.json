@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "12345",
+    "db": "mongodb+srv://movielib_user:movielib_user@cluster0.q9k7g.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}

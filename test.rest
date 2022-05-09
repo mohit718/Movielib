@@ -1,0 +1,10 @@
+POST http://localhost:3000/api/users
+
+# x-auth-token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZmYwYmQ5MzNjOGRhZDRjM2NmZmE2YzciLCJpYXQiOjE2MDk2Mzg5OTF9.Bax8rUF91mGv58-aTRNpySJsdpcAej9R087sF6RlwSE'
+
+Content-Type: application/json
+Authorization: auth-token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZmYwYmQ5MzNjOGRhZDRjM2NmZmE2YzciLCJpYXQiOjE2MDk2Mzg5OTF9.Bax8rUF91mGv58-aTRNpySJsdpcAej9R087sF6RlwSE
+# {
+#     "email": "anjana.soni1@gmail.com",
+#     "password": "M0h!t$0n!"
+# }
